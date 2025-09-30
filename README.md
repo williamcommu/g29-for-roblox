@@ -1,7 +1,3 @@
-# Enhanced G29 to Roblox Interface - Multiple Control Modes
-
-## What's New - Multiple Control Modes
-
 ### Mouse Steering Mode (Recommended)
 - **Smooth analog steering** via mouse movement
 - Perfect balance of compatibility and smoothness
@@ -26,10 +22,7 @@
 
 ## Quick Start
 
-### Option 1: Enhanced Interface (Recommended)
-Double-click `start_enhanced.bat` for the new multi-mode interface
-
-### Option 2: Original Interface
+### Option 1: Original Interface
 Double-click `start.bat` for the original keyboard-only version
 
 ## Control Mode Comparison
