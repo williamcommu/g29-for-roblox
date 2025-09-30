@@ -1,7 +1,5 @@
 # Enhanced G29 to Roblox Interface - Multiple Control Modes
 
-**You're absolutely right!** The enhanced version now includes **smooth analog control** instead of choppy keyboard inputs!
-
 ## What's New - Multiple Control Modes
 
 ### Mouse Steering Mode (Recommended)
